@@ -1,0 +1,11 @@
+framework module Fri_SDK {
+  umbrella header "Fri_SDK.h"
+
+  export *
+  module * { export * }
+}
+
+module Fri_SDK.Swift {
+  header "Fri_SDK-Swift.h"
+  requires objc
+}
