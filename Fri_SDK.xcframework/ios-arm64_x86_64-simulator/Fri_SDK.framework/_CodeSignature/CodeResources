@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		cq/yyERmnIVZXLHpoUk6+So3OUM=
+		d3A1Ym9CFSKkqoOJdCm95d3bekI=
 		</data>
 		<key>AssociatedServices.storyboardc/FriSDKActiveServicesViewController.nib</key>
 		<data>
@@ -34,15 +34,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		KJbHYW/ulECJBE5VOtQ+Wbyg9bY=
+		UajT/pzFMa/Wk2zYpV63vMxPcD8=
 		</data>
 		<key>Modules/Fri_SDK.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		9h2udkAy5FeTLXaMoN2CVjP3H2M=
+		slXoMQzbN+T99Ahtrvrn/s9CDNQ=
 		</data>
 		<key>Modules/Fri_SDK.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		6I7iXH0p3/a1h5xRJ5EF4dGX5Ek=
+		PJcpIorqLt4sHLIrWhFdq9iMkWg=
 		</data>
 		<key>Modules/Fri_SDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/Fri_SDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		lvgGQiKvqJlc5r1lWmIIWJnTylE=
+		zKtoxcBSz/Vt+mHGnfYDMEPt9aE=
 		</data>
 		<key>Modules/Fri_SDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -66,13 +66,17 @@
 		</data>
 		<key>Modules/Fri_SDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		bBfV4W/OtwEN1HhATE4GwwGf5R4=
+		8POjZ3RsQZUkWewL2mpdyXEDL30=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		/aHGJJF6kBn6YQkCd2tHosN4zik=
 		</data>
 		<key>Transfer.storyboardc/0dz-Ki-34S-view-IeV-Tq-LSB.nib</key>
+		<data>
+		XHmjuhpfOxfCfNExuX45LrK6qZE=
+		</data>
+		<key>Transfer.storyboardc/4G6-Ie-VEN-view-LeP-Kh-EQ8.nib</key>
 		<data>
 		BH9AJkdiekadcoRaub+q4C7+Ydo=
 		</data>
@@ -94,15 +98,19 @@
 		</data>
 		<key>Transfer.storyboardc/FriSDKManualInputViewController.nib</key>
 		<data>
-		Z68aY29Yo0hWhcHljEepiilS274=
+		cQeS5uoqbchGw+yaGxofmg3+d94=
 		</data>
 		<key>Transfer.storyboardc/FriSDKPaymentSourceViewController.nib</key>
 		<data>
 		qtYETG9DMwqvMrpotgnBurRFY+M=
 		</data>
+		<key>Transfer.storyboardc/FriSDKQRReaderViewController.nib</key>
+		<data>
+		LAtDuzNqEtEyYDcSmSTXhwfUegU=
+		</data>
 		<key>Transfer.storyboardc/Info.plist</key>
 		<data>
-		2rVVedKSa6ZI4MeKRDszmz/EJSI=
+		KKeslMHNnUoCbqC1iIw/66KxPEw=
 		</data>
 		<key>Transfer.storyboardc/UINavigationController-dBJ-3h-TbR.nib</key>
 		<data>
@@ -143,7 +151,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GVtuNujCYLl4BdhkP8BjJuQY8S7LfQnVlqqnFopHnls=
+			+hmic68lYJ6ydnXWmyVcx5Rr+VkOPEz2QUH+cpO5QJI=
 			</data>
 		</dict>
 		<key>AssociatedServices.storyboardc/FriSDKActiveServicesViewController.nib</key>
@@ -192,14 +200,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			be25P+0EWINZQuO3b3X5Q6b+/AYKRZrVr1E3bQ/Y5+Q=
+			rxW17U9QThP41rXphlrU8SkAeiD2zVebPEn7ZNghPlg=
 			</data>
 		</dict>
 		<key>Modules/Fri_SDK.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nI9yTdGc2v8z2Yp5gF2lHTbp3qYFqu7RiFs9eIsQXX0=
+			ebPFreucW1RqYylU4/wSGZyqUUhSWwnfYUb+q+yHy8c=
 			</data>
 		</dict>
 		<key>Modules/Fri_SDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -220,7 +228,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			APL3GhyLUTAl24DbHhUSDzZN9YhNleG/y6cqPcud4Zs=
+			Y2vP7Ce2RoGCqGYDvm320HtDIejfwr2uxIGEUtwlNGQ=
 			</data>
 		</dict>
 		<key>Modules/Fri_SDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -241,7 +249,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pl3oj0RIFICYbCrsn+ZO9mokqn9P9PkRBmQncQDbtxk=
+			/R2BczSFQz1xCCmY/17ENbpk9LprVd9t3Kr8LAubais=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -252,6 +260,13 @@
 			</data>
 		</dict>
 		<key>Transfer.storyboardc/0dz-Ki-34S-view-IeV-Tq-LSB.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			2KvaLoul9vCQk3XES9CaUEljMrIz0T9sxjLQlR3LeXQ=
+			</data>
+		</dict>
+		<key>Transfer.storyboardc/4G6-Ie-VEN-view-LeP-Kh-EQ8.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
@@ -290,7 +305,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2VHkTkH1rdf0w0wMzA/b6WxIh3nwi4ulFFe/+dfr1dE=
+			Wic2XIXfkq/56UDU6/Zh9Qpiv/OFqb2ZKafP/uq+Rno=
 			</data>
 		</dict>
 		<key>Transfer.storyboardc/FriSDKPaymentSourceViewController.nib</key>
@@ -300,11 +315,18 @@
 			y2HSqcJvfClDsYz746s6oFjuf9RorrD+d1W9B5A8E/s=
 			</data>
 		</dict>
+		<key>Transfer.storyboardc/FriSDKQRReaderViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			i7dBUtsf0gSvf7s9RKWd4wJRBvOgz4kEx9qdL1jzSEU=
+			</data>
+		</dict>
 		<key>Transfer.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ub4NrIKiWrBiOkZs3X3yjCTwpQsShlrhPoCxDyEk678=
+			TeCv21C7S9UDJShRG6atPnlrgfR9WAuTIPHm4hMvmbw=
 			</data>
 		</dict>
 		<key>Transfer.storyboardc/UINavigationController-dBJ-3h-TbR.nib</key>
