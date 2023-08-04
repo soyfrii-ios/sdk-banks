@@ -6,19 +6,27 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		d3A1Ym9CFSKkqoOJdCm95d3bekI=
+		B0Kt9My1aB/vYnUR7QmF41SUcyY=
 		</data>
 		<key>AssociatedServices.storyboardc/FriSDKActiveServicesViewController.nib</key>
 		<data>
 		x3AuZmlYVe6AHYC+x/UcKmiJtM0=
 		</data>
+		<key>AssociatedServices.storyboardc/FriSDKServiceAliasViewController.nib</key>
+		<data>
+		53TuOqXatxNuKS5tzgakaY2QJ1w=
+		</data>
 		<key>AssociatedServices.storyboardc/Info.plist</key>
 		<data>
-		ihaLz4Td7TbuJ690pa1Tu43hKhY=
+		gsOo9N1oLIC1AX0RBE5UgkMWG4A=
+		</data>
+		<key>AssociatedServices.storyboardc/OVq-CR-WI2-view-QzV-qS-Z6U.nib</key>
+		<data>
+		BH9AJkdiekadcoRaub+q4C7+Ydo=
 		</data>
 		<key>AssociatedServices.storyboardc/UINavigationController-Doq-u4-tsg.nib</key>
 		<data>
-		S9Lh9WzCCMF0a3aGcKMKSZwm2fE=
+		ivlntXUTKzsuZCevz9O8HGakmU4=
 		</data>
 		<key>AssociatedServices.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
 		<data>
@@ -26,7 +34,7 @@
 		</data>
 		<key>Headers/Fri_SDK-Swift.h</key>
 		<data>
-		caBVI6hQJAyHcwS/QPqmKI0IJys=
+		0nsX3z8w17fIHfCTyAmVN8kaEBw=
 		</data>
 		<key>Headers/Fri_SDK.h</key>
 		<data>
@@ -34,15 +42,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		UajT/pzFMa/Wk2zYpV63vMxPcD8=
+		tcgl27iEd0+Z+lmyl9MKYq0Bzjo=
 		</data>
 		<key>Modules/Fri_SDK.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		slXoMQzbN+T99Ahtrvrn/s9CDNQ=
+		KsdxbUd4KEhBOK8qWMXbL9Z+x5s=
 		</data>
 		<key>Modules/Fri_SDK.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		PJcpIorqLt4sHLIrWhFdq9iMkWg=
+		i3o1DUBX0t6t0b+VmkXd7I1zwBo=
 		</data>
 		<key>Modules/Fri_SDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -50,11 +58,11 @@
 		</data>
 		<key>Modules/Fri_SDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		nVVP7vUIqaMcFeHHSKFc5sXA0YE=
+		VzD/DyiezBti9/Nr3eoX7tZXkPk=
 		</data>
 		<key>Modules/Fri_SDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		zKtoxcBSz/Vt+mHGnfYDMEPt9aE=
+		xI1R6Yt9rK/8hWC+73BjxZGJj+M=
 		</data>
 		<key>Modules/Fri_SDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -62,11 +70,11 @@
 		</data>
 		<key>Modules/Fri_SDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		xb/+I6RDVE9dydHASRgFYcY9yW8=
+		4vgfr5uS2boqc/pPxWhtgOC8Vn4=
 		</data>
 		<key>Modules/Fri_SDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		8POjZ3RsQZUkWewL2mpdyXEDL30=
+		Z4bTHP4oYlVg7pykphi5kptuXQM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -114,7 +122,7 @@
 		</data>
 		<key>Transfer.storyboardc/UINavigationController-dBJ-3h-TbR.nib</key>
 		<data>
-		XebqVSRBgiCgUDh+9OdL4BTHVBk=
+		o0TVMBN6DLe/7B4x2kQzlHZVC+I=
 		</data>
 		<key>Transfer.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
 		<data>
@@ -151,7 +159,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+hmic68lYJ6ydnXWmyVcx5Rr+VkOPEz2QUH+cpO5QJI=
+			lnUJgTtzvNtZLn9FdA/vmmnG+b0UYnxKC1VPjChg+B4=
 			</data>
 		</dict>
 		<key>AssociatedServices.storyboardc/FriSDKActiveServicesViewController.nib</key>
@@ -161,18 +169,32 @@
 			Fr0a+jTsuEDmZbWSEfPY9txTnMYx0M0MfytFEia5gaI=
 			</data>
 		</dict>
+		<key>AssociatedServices.storyboardc/FriSDKServiceAliasViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			uaC9P2pL5f4uc240E/mVisaa0bT+bTcHx2xhlJFeutg=
+			</data>
+		</dict>
 		<key>AssociatedServices.storyboardc/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vOVTqw/0zUb9DJ9aGXhxTO1Knm8Mte0GOEnaAuJdkU4=
+			3cWYEd82oJJxglklfBKoZbE66JgoUVJkn4B9SI9ZMSs=
+			</data>
+		</dict>
+		<key>AssociatedServices.storyboardc/OVq-CR-WI2-view-QzV-qS-Z6U.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VlmO+y0PiHTA+cGxA8TVe7idWLp9bq65rAnllmeLGyk=
 			</data>
 		</dict>
 		<key>AssociatedServices.storyboardc/UINavigationController-Doq-u4-tsg.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dXRpf1zMqJ2Pn8ezWHWC2eVtq8ArDXfgMlQ6/voEwv0=
+			vfayK509kWA1dPNLyATSlw2pHF1lnSyFRFl/pSB+g+k=
 			</data>
 		</dict>
 		<key>AssociatedServices.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
@@ -186,7 +208,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZO8f5+RgHwZJBsxDk0enAQj9+MsFDE/qB2YNzJm6hUQ=
+			tmXHisNa5fse8TD46YiBEmD/5D85zRcTuVursKXJmow=
 			</data>
 		</dict>
 		<key>Headers/Fri_SDK.h</key>
@@ -200,14 +222,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rxW17U9QThP41rXphlrU8SkAeiD2zVebPEn7ZNghPlg=
+			3lstarj9lqUYkzgeeA3t4HPNhAnf6QmprrXRCGKl75g=
 			</data>
 		</dict>
 		<key>Modules/Fri_SDK.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ebPFreucW1RqYylU4/wSGZyqUUhSWwnfYUb+q+yHy8c=
+			yMz+QOIoXD9mpGNz73J/42m8FeYgX0SoKNb/sJkYpSw=
 			</data>
 		</dict>
 		<key>Modules/Fri_SDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -221,14 +243,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CB3FnPWrNsiHfzEibIsPSUBosrPZKw4B6Zmjcofxhj8=
+			yTB0KB2GquXqDQl6C7/vOQsvJkwhrU23cgDXQ15j26k=
 			</data>
 		</dict>
 		<key>Modules/Fri_SDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Y2vP7Ce2RoGCqGYDvm320HtDIejfwr2uxIGEUtwlNGQ=
+			z2CnGLKmBQxTp4oNGxM1Tn+AwK2anl2+pKLsxXW7A88=
 			</data>
 		</dict>
 		<key>Modules/Fri_SDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -242,14 +264,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vz2TLJa8hs1BK8zKnqIxYi6OtQm4D5qMdPj5ompocpo=
+			NQsaJbD+OjDihG+2uHGL04cYYkf7wYJMMrXkumQBtm4=
 			</data>
 		</dict>
 		<key>Modules/Fri_SDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/R2BczSFQz1xCCmY/17ENbpk9LprVd9t3Kr8LAubais=
+			B78cu9w9ES7NCm0ul3XKm4rPPInC8Wy329fYiWu5O1A=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -333,7 +355,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			La7/bimNbDauWMCi5uXeG34VyAIybGHxHCYchN640Yw=
+			r+Vp+9Nj1C0rUWOBc5cb4M0wLHPGyMz4w4JHOoOYdGc=
 			</data>
 		</dict>
 		<key>Transfer.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
