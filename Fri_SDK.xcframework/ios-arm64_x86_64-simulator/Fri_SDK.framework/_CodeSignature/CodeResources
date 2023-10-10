@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		kGxPCOiIPB1oXFWcxnliAEN3RvI=
+		/+IpGVg3hH2TioEjcOWnLI/4fNs=
 		</data>
 		<key>AssociatedServices.storyboardc/FriSDKActiveServicesViewController.nib</key>
 		<data>
@@ -22,7 +22,7 @@
 		</data>
 		<key>AssociatedServices.storyboardc/OVq-CR-WI2-view-QzV-qS-Z6U.nib</key>
 		<data>
-		BH9AJkdiekadcoRaub+q4C7+Ydo=
+		qPe05ohPLjCkJ4HRKWfhVF4T4DQ=
 		</data>
 		<key>AssociatedServices.storyboardc/UINavigationController-Doq-u4-tsg.nib</key>
 		<data>
@@ -30,11 +30,11 @@
 		</data>
 		<key>AssociatedServices.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
 		<data>
-		BH9AJkdiekadcoRaub+q4C7+Ydo=
+		qPe05ohPLjCkJ4HRKWfhVF4T4DQ=
 		</data>
 		<key>Headers/Fri_SDK-Swift.h</key>
 		<data>
-		/EVHHA5v5rrTxJ+XrGtQ7p7hBzQ=
+		OoNiWk0xiiu2PJ/qjfFWEMCegwA=
 		</data>
 		<key>Headers/Fri_SDK.h</key>
 		<data>
@@ -42,15 +42,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		l8os7xwKSjYuLpThN42FoNUSjnI=
+		03CzF1bXqpagPtCXK94opOyfxPA=
 		</data>
 		<key>Modules/Fri_SDK.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		PSViKTRhVrDiua9ZcGZacGKFsv8=
+		SACRF2VOQMjlXgJYthq9Ak342oE=
 		</data>
 		<key>Modules/Fri_SDK.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		KPRMfiiP66BLt8zn2OZ+bjGFeHY=
+		tv1/zbqYdxsxrZR2UXz3IytWT5s=
 		</data>
 		<key>Modules/Fri_SDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -58,11 +58,11 @@
 		</data>
 		<key>Modules/Fri_SDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		zm+t9qWz4DyZdBfb83xVk2ch+c8=
+		0zO0qT5p6UqiXt/wlpKZxyD3nZk=
 		</data>
 		<key>Modules/Fri_SDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		fekoMnuO8mDSWI01rC6C3Vmx3vk=
+		MaigtHKyqPTNDjFy6cBvrSI93B8=
 		</data>
 		<key>Modules/Fri_SDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -70,23 +70,23 @@
 		</data>
 		<key>Modules/Fri_SDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		Rac4kdtTwM7h0MrkGg9C0X+dFqI=
+		O5qMaslTGojxJ/gP+7j+6+bwYec=
 		</data>
 		<key>Modules/Fri_SDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		jvd0Tt8XEPNuaRlkDaMgD+xVEt8=
+		ydL645LnJboYtEa9jbZ/7fR/4Po=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		/aHGJJF6kBn6YQkCd2tHosN4zik=
+		JkVs7OU4oNmCX97I/+NgFbketSw=
 		</data>
 		<key>Transfer.storyboardc/0dz-Ki-34S-view-IeV-Tq-LSB.nib</key>
 		<data>
-		XHmjuhpfOxfCfNExuX45LrK6qZE=
+		OAU89GN2UpMspeIIWQBAviyVTT8=
 		</data>
 		<key>Transfer.storyboardc/4G6-Ie-VEN-view-LeP-Kh-EQ8.nib</key>
 		<data>
-		BH9AJkdiekadcoRaub+q4C7+Ydo=
+		qPe05ohPLjCkJ4HRKWfhVF4T4DQ=
 		</data>
 		<key>Transfer.storyboardc/FriSDKAmountViewController.nib</key>
 		<data>
@@ -114,7 +114,7 @@
 		</data>
 		<key>Transfer.storyboardc/FriSDKQRReaderViewController.nib</key>
 		<data>
-		LAtDuzNqEtEyYDcSmSTXhwfUegU=
+		cDTQ+LR3lauoiwLe07Hd/f3LU+w=
 		</data>
 		<key>Transfer.storyboardc/Info.plist</key>
 		<data>
@@ -126,23 +126,23 @@
 		</data>
 		<key>Transfer.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
 		<data>
-		BH9AJkdiekadcoRaub+q4C7+Ydo=
+		qPe05ohPLjCkJ4HRKWfhVF4T4DQ=
 		</data>
 		<key>Transfer.storyboardc/Zap-SB-SM3-view-xCx-fg-Pty.nib</key>
 		<data>
-		BH9AJkdiekadcoRaub+q4C7+Ydo=
+		qPe05ohPLjCkJ4HRKWfhVF4T4DQ=
 		</data>
 		<key>Transfer.storyboardc/gQI-5P-2Oe-view-vJD-tB-6aq.nib</key>
 		<data>
-		BH9AJkdiekadcoRaub+q4C7+Ydo=
+		qPe05ohPLjCkJ4HRKWfhVF4T4DQ=
 		</data>
 		<key>Transfer.storyboardc/mB8-6Q-tLk-view-0Ox-S9-DG7.nib</key>
 		<data>
-		BH9AJkdiekadcoRaub+q4C7+Ydo=
+		qPe05ohPLjCkJ4HRKWfhVF4T4DQ=
 		</data>
 		<key>Transfer.storyboardc/zoN-wD-bGr-view-X1z-zF-xAS.nib</key>
 		<data>
-		BH9AJkdiekadcoRaub+q4C7+Ydo=
+		qPe05ohPLjCkJ4HRKWfhVF4T4DQ=
 		</data>
 		<key>checkmarkLoader.json</key>
 		<data>
@@ -159,7 +159,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2aKhvW0/VxWeJyixtTXJBMsrk8nBDeTl+wYAzaXwwVU=
+			450VQ3nSA34ZGSs3dolTHC8eEk7I7CA3PpAn7NbAP6s=
 			</data>
 		</dict>
 		<key>AssociatedServices.storyboardc/FriSDKActiveServicesViewController.nib</key>
@@ -187,7 +187,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VlmO+y0PiHTA+cGxA8TVe7idWLp9bq65rAnllmeLGyk=
+			eY2xUL0E7RtfU3K2iDgDvZPqP4IO0GDiuyhJho31nbA=
 			</data>
 		</dict>
 		<key>AssociatedServices.storyboardc/UINavigationController-Doq-u4-tsg.nib</key>
@@ -201,14 +201,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VlmO+y0PiHTA+cGxA8TVe7idWLp9bq65rAnllmeLGyk=
+			eY2xUL0E7RtfU3K2iDgDvZPqP4IO0GDiuyhJho31nbA=
 			</data>
 		</dict>
 		<key>Headers/Fri_SDK-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fveEK1g01ag3F+Ivv0QOeUtN1Kf6ZjQdt5NT/MYhpZ4=
+			JG+LOXhGj71knMFtWuQlER7ah9JOhVu9lGWBfaCJ+dg=
 			</data>
 		</dict>
 		<key>Headers/Fri_SDK.h</key>
@@ -222,14 +222,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			iuYHTgvwfzGw7m4vDuCmUjKd9/vACd8s1rdGnqZCJzw=
+			VHWsDf0Qmj6bAPoMi10NFN5nYkR6ORnMZ8gg2KwkaLA=
 			</data>
 		</dict>
 		<key>Modules/Fri_SDK.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4cjQAVZDBunNEAU+BOJT/uUZKTDBqQ7g2FinZnoDoWM=
+			6UktaanXkLCgfq3gPchCOsynSR/5icaVoK+P5R//lvg=
 			</data>
 		</dict>
 		<key>Modules/Fri_SDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
@@ -243,14 +243,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			k770wknS+DNdd3YCDZtduUZhiCFzMuvEHE8yQOgf2Ck=
+			6Lh4FTWeGFdQorehaLMqhe+G6CcmeRTo2Xd8BEQYL8w=
 			</data>
 		</dict>
 		<key>Modules/Fri_SDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			owfMV9tne5EaeqiyUixNT04jjxBjdId0abXfY7gciN4=
+			YGY4tM6Ak1zWYc1wi0Wwzh5LhHcW0OlW3XudaV/KV5c=
 			</data>
 		</dict>
 		<key>Modules/Fri_SDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -264,35 +264,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7F32WsE0QMusdtHkc3E8W4fxVzq8ydWOaiW5N8VV0kI=
+			Ej55oLYUvN49CY03RCS2ejsXxZBItfHZNPOGRi23mpE=
 			</data>
 		</dict>
 		<key>Modules/Fri_SDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			W1ar/SGTP2bGEDZTPIcSIluyoQHlNXGmEyWfidwnik8=
+			+zri5hJLctCUUQdtVUiRNlpfAzxBVrb/OR95ReEcu9Q=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lKSGHj09lFnCt7sSTEFZTvDOLZbfPNGdWmHdV62lZqY=
+			b9kaSd41GrgtaXD09O2Sdvcd/381OgmK2+xU2FFKn3U=
 			</data>
 		</dict>
 		<key>Transfer.storyboardc/0dz-Ki-34S-view-IeV-Tq-LSB.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2KvaLoul9vCQk3XES9CaUEljMrIz0T9sxjLQlR3LeXQ=
+			WyxpsjaBgkpMR+hnjtvedmbCdEH1vI010pEzomoFqsY=
 			</data>
 		</dict>
 		<key>Transfer.storyboardc/4G6-Ie-VEN-view-LeP-Kh-EQ8.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VlmO+y0PiHTA+cGxA8TVe7idWLp9bq65rAnllmeLGyk=
+			eY2xUL0E7RtfU3K2iDgDvZPqP4IO0GDiuyhJho31nbA=
 			</data>
 		</dict>
 		<key>Transfer.storyboardc/FriSDKAmountViewController.nib</key>
@@ -341,7 +341,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			i7dBUtsf0gSvf7s9RKWd4wJRBvOgz4kEx9qdL1jzSEU=
+			P4CgJRBBqEz0EdfCWfzVK5DKqn0itvQhQ48frPohTew=
 			</data>
 		</dict>
 		<key>Transfer.storyboardc/Info.plist</key>
@@ -362,35 +362,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VlmO+y0PiHTA+cGxA8TVe7idWLp9bq65rAnllmeLGyk=
+			eY2xUL0E7RtfU3K2iDgDvZPqP4IO0GDiuyhJho31nbA=
 			</data>
 		</dict>
 		<key>Transfer.storyboardc/Zap-SB-SM3-view-xCx-fg-Pty.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VlmO+y0PiHTA+cGxA8TVe7idWLp9bq65rAnllmeLGyk=
+			eY2xUL0E7RtfU3K2iDgDvZPqP4IO0GDiuyhJho31nbA=
 			</data>
 		</dict>
 		<key>Transfer.storyboardc/gQI-5P-2Oe-view-vJD-tB-6aq.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VlmO+y0PiHTA+cGxA8TVe7idWLp9bq65rAnllmeLGyk=
+			eY2xUL0E7RtfU3K2iDgDvZPqP4IO0GDiuyhJho31nbA=
 			</data>
 		</dict>
 		<key>Transfer.storyboardc/mB8-6Q-tLk-view-0Ox-S9-DG7.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VlmO+y0PiHTA+cGxA8TVe7idWLp9bq65rAnllmeLGyk=
+			eY2xUL0E7RtfU3K2iDgDvZPqP4IO0GDiuyhJho31nbA=
 			</data>
 		</dict>
 		<key>Transfer.storyboardc/zoN-wD-bGr-view-X1z-zF-xAS.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VlmO+y0PiHTA+cGxA8TVe7idWLp9bq65rAnllmeLGyk=
+			eY2xUL0E7RtfU3K2iDgDvZPqP4IO0GDiuyhJho31nbA=
 			</data>
 		</dict>
 		<key>checkmarkLoader.json</key>

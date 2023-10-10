@@ -1,7 +1,7 @@
 framework module Fri_SDK {
   umbrella header "Fri_SDK.h"
-
   export *
+
   module * { export * }
 }
 
