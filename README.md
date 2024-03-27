@@ -6,6 +6,10 @@ Repositorio oficial para fri iOS SDK
 
 Consulta la sección de [Como instalar](HOW_TO_INSTALL.md) para más información sobre instalar e integrar fri iOS SDK.
 
+## Personalización
+
+Consulta la sección de Personalizar SDK para más información sobre como personalizar el SDK.
+
 ## Como utilizar Fri SDK para iOS
 
 Para inicializar el SDK se debe inyectar la configuración de datos necesaria para funcionar correctamente.
@@ -41,11 +45,6 @@ Parameters:
 `qrString(Opcional)`: Es el String de un QR leido previamente. Si se provee el dato, el SDK se inicializara con los datos contenidos en este String
 
 `friSDK.initializeAccountsManagement()`: Inicializa la pantalla de listado cuentas bancarias en fri
-
-
-### Configuración de Colores
- 
-Para configurar el color primario, se debe incluir el catalogo `Color.xcassets` y agregar el valor `rgb/hex` para: 
 
 
 ### Configuración de fuentes
