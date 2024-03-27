@@ -12,6 +12,8 @@ Consulta la sección de [Personalización](HOW_TO_CUSTOMIZE.md) para más inform
 
 ## Como utilizar Fri SDK para iOS
 
+### Inicialización
+
 Para inicializar el SDK se debe inyectar la configuración de datos necesaria para funcionar correctamente.
 
 ```Swift 
@@ -28,7 +30,7 @@ let configuration = FriSDKConfiguration(userId: userId,
 let friSDK = FriSDK(configuration: configuration)
 ```
 
-### Parametros
+#### Parametros
 
 `userId:` Es el id del usuario que provee el servicio de backend de la aplicación host.
 
@@ -38,16 +40,16 @@ let friSDK = FriSDK(configuration: configuration)
 
 `publicId:` Valor que servirá al SDK para asegurar la comunicación para el usuario que inicio sesión.
 
-### Metodos
+#### Metodos
 
-`friSDK.initializeTransferFlow(qrString: String? = nil)` :  Inicializa el flujo de FriPay.
+`friSDK.initializeTransferFlow(qrString: String? = nil)` :  Inicializa el flujo de Transferencias o pagos. Si no se envía `qrString` inicializa el flujo normal de pagos. 
 
 `qrString(Opcional)`: Es el String de un QR leido previamente. Si se provee el dato, el SDK se inicializara con los datos contenidos en este String
 
 `friSDK.initializeAccountsManagement()`: Inicializa la pantalla de listado cuentas bancarias en fri
 
 
-## Notificaciones para flujo de agregar cuenta
+### Notificaciones para flujo de agregar cuenta
 
 Para comunicar fri iOS SDK con la app host, se utiliza notificaciones (NSNotification) para enviar diferentes mensajes, valores u objetos deseados.
 
@@ -60,5 +62,5 @@ Y seguidamente crear la función que obtiene el valor y realiza algo con dicho v
 ```Swift
 @objc func didReceiveFriSDKNotification(_ notification: NSNotification) {
         print("Notification \(notification.name.rawValue) received with info: \(notification.userInfo ?? ["":""])")
-    }
+}
 ```
