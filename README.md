@@ -1,6 +1,6 @@
-# Fri iOS SDK
+# iOS Fri SDK
 
-Repositorio oficial para fri iOS SDK
+Repositorio oficial para iOS Fri SDK
 
 ## Como instalar
 
