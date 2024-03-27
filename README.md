@@ -1,21 +1,10 @@
 # Fri iOS SDK
 
-fri SDK bancos 
+Repositorio oficial para fri iOS SDK
 
-## Integrar fri SDK 
+## Como instalar
 
-### Agregar SDK usando Swift Package Manager
-Para poder integrar el Fri SDK a una aplicación iOS debemos agregar el SDK usando Swift Package Manager, este agregara todas las dependencias automáticamente.
-
-En la búsqueda colocar la URL: https://github.com/soyfrii-ios/sdk-banks, seleccionar el branch main y el proyecto al que sera agregado.
-
-Hacer click en “Add Package” y con esto ya estará agregado al proyecto. 
-
-### Requerimientos:
-
-- Soporte iOS13+
-- Xcode 14.2+
-- Swift 5.7+
+Consulta la sección de [Como instalar](HOW_TO_INSTALL.md) para más información sobre instalar e integrar fri iOS SDK.
 
 ## Como utilizar Fri SDK para iOS
 
